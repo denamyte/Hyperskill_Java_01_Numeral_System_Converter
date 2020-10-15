@@ -10,6 +10,4 @@
 /nbactions.xml
 
 # EduTools
-#/**/production/classes/*
-#**/out/**/*.class
-**/out/production/classes/**
+/**/production/classes/*
